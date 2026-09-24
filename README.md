@@ -28,7 +28,7 @@ scott@github:~$ echo $STACK
 |---|---|---|
 | [`machine-learning-feature-pipeline/`](https://github.com/scottlai0/machine-learning-feature-pipeline) | Feature engineering pipeline with Vertex AI Feature Store | `Python` `GCP` |
 | [`ldap_api/`](https://github.com/scottlai0/ldap_api) | Fetch & verify corporate users by LDAP group | `Python` |
-| [`cafe-employee-react-app/`](https://github.com/scottlai0/cafe-employee-react-app) | Employee management web app | `TypeScript` `React` |
+| `automatic-pancake/` 🔒 | No-code orchestration platform for DevOps workflows | `DevOps` `Orchestration` |
 
 ```bash
 scott@github:~$ ls -l ./projects/internal
