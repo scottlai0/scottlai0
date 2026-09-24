@@ -17,13 +17,14 @@ scott@github:~$ cat about.txt
 > Currently exploring Vertex AI Feature Store on GCP
 ```
 
-### `scott@github:~$ echo $STACK`
 ```bash
-python · typescript · react · angular · fastapi · gcp · docker · mongodb · postgres · git
+scott@github:~$ echo $STACK
+python · typescript · react · angular · fastapi · gcp · docker · mongodb · postgres · git · mssql · terraform · 
 ```
 
-### `scott@github:~$ ls ./projects`
-
+```
+scott@github:~$ ls ./projects
+```
 | Project | Description | Stack |
 |---|---|---|
 | `automatic-pancake/` 🔒 | No-code orchestration platform for DevOps workflows *(internal · enterprise)* | ![DevOps](https://img.shields.io/badge/DevOps-0d1117?style=flat-square&logo=githubactions&logoColor=39FF14) ![Orchestration](https://img.shields.io/badge/Orchestration-0d1117?style=flat-square&logo=apacheairflow&logoColor=39FF14) |
