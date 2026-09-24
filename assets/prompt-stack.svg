@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="24" viewBox="0 0 250 24" role="img" aria-label="scott@github:~$ echo $STACK">
+  <style>text { font-family: 'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace; font-size: 15px; }</style>
+  <text x="0" y="18" xml:space="preserve"><tspan fill="#39FF14" font-weight="700">scott@github</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ echo $STACK</tspan></text>
+</svg>
