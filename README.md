@@ -15,7 +15,7 @@
 
 ```text
 > Building web apps, data pipelines, DevOps tooling & internal platforms
-> Currently exploring Vertex AI Feature Store on GCP
+> Currently exploring options to create no-code infrastructures to improve the lives of new developers.
 ```
 
 <img src="./assets/prompt-stack.svg" alt="scott@github:~$ echo $STACK" />
@@ -43,6 +43,6 @@ python · typescript · react · angular · fastapi · gcp · docker · mongodb 
 </p>
 
 ```diff
-+ status: open to collaborating on fullstack / data / DevOps projects
++ status: open to collaborating on fullstack / data / DevOps / ML projects
 + contact: linkedin.com/in/scottlai0
 ```
