@@ -19,9 +19,22 @@ scott@github:~$ cat about.txt
 
 ### `scott@github:~$ echo $STACK`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,react,angular,fastapi,gcp,docker,mongodb,postgres,git&theme=dark&perline=10" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" /><br/>Python</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" /><br/>TypeScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React" /><br/>React</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=angular" width="48" alt="Angular" /><br/>Angular</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI" /><br/>FastAPI</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="48" alt="Google Cloud" /><br/>Google Cloud</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" /><br/>Docker</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB" /><br/>MongoDB</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" /><br/>PostgreSQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /><br/>Git</td>
+  </tr>
+</table>
 
 ### `scott@github:~$ ls ./projects`
 
