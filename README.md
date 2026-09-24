@@ -19,7 +19,7 @@ scott@github:~$ cat about.txt
 > Currently exploring Vertex AI Feature Store on GCP
 
 scott@github:~$ echo $STACK
-> python  typescript  react  gcp  docker  sql  git
+> python  typescript  react  gcp  docker  sql  git  angular  fastapi  nosql
 ```
 
 ### `scott@github:~$ ls ./projects`
