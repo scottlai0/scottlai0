@@ -28,7 +28,7 @@ python · typescript · react · angular · fastapi · gcp · docker · mongodb 
 
 | Project | Description | Stack |
 |---|---|---|
-| `automatic-pancake/` 🔒 | No-code orchestration platform for DevOps workflows *(internal · enterprise)* | ![DevOps](https://img.shields.io/badge/DevOps-0d1117?style=flat-square&logo=githubactions&logoColor=39FF14) ![Orchestration](https://img.shields.io/badge/Orchestration-0d1117?style=flat-square&logo=apacheairflow&logoColor=39FF14) |
+| `automatic-pancake/` 🔒 | No-code orchestration platform for DevOps workflows *(internal · enterprise)* (code coming soon) | ![DevOps](https://img.shields.io/badge/DevOps-0d1117?style=flat-square&logo=githubactions&logoColor=39FF14) ![Orchestration](https://img.shields.io/badge/Orchestration-0d1117?style=flat-square&logo=apacheairflow&logoColor=39FF14) |
 | [`machine-learning-feature-pipeline/`](https://github.com/scottlai0/machine-learning-feature-pipeline) | Feature engineering pipeline with Vertex AI Feature Store | ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=39FF14) ![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=39FF14) |
 | [`ldap_api/`](https://github.com/scottlai0/ldap_api) | Fetch & verify corporate users by LDAP group | ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=39FF14) ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=39FF14) |
 
