@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/scottlai0">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=39FF14&center=true&vCenter=true&width=650&lines=%24+whoami;scott_lai+%E2%80%94+ML+%26+Data+Engineer;%24+cat+interests.txt;pipelines+%7C+DevOps+%7C+GCP" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=39FF14&center=true&vCenter=true&width=650&lines=%24+whoami;scott_lai+%E2%80%94+Software+%26+Data+Engineer;%24+cat+interests.txt;pipelines+%7C+DevOps+%7C+GCP" />
 </a>
 
 <a href="https://www.linkedin.com/in/scottlai0/">
